@@ -1,6 +1,6 @@
 {
   "name": "egg-mongoose-logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A helper plugin to hook egg logger library in mongoose.",
   "eggPlugin": {
     "name": "mongooseLogger",
