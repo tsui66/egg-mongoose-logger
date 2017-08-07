@@ -9,12 +9,12 @@
 
 [npm-image]: https://img.shields.io/npm/v/egg-mongoose-logger.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-mongoose-logger
-[travis-image]: https://img.shields.io/travis/eggjs/egg-mongoose-logger.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-mongoose-logger
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-mongoose-logger.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-mongoose-logger?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-mongoose-logger.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-mongoose-logger
+[travis-image]: https://travis-ci.org/Quinton/egg-mongoose-logger.svg?branch=master
+[travis-url]: https://travis-ci.org/Quinton/egg-mongoose-logger
+[codecov-image]: https://img.shields.io/codecov/c/github/Quinton/egg-mongoose-logger.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/Quinton/egg-mongoose-logger?branch=master
+[david-image]: https://img.shields.io/david/Quinton/egg-mongoose-logger.svg?style=flat-square
+[david-url]: https://david-dm.org/Quinton/egg-mongoose-logger/repo.svg
 [snyk-image]: https://snyk.io/test/npm/egg-mongoose-logger/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-mongoose-logger
 [download-image]: https://img.shields.io/npm/dm/egg-mongoose-logger.svg?style=flat-square
