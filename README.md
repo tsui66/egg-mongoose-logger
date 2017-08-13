@@ -46,7 +46,7 @@ exports.mongooseLogger = {
 // {app_root}/config/config.default.js
 exports.mongooseLogger = {
   debug: true,
-  // 自定义输出格式
+  // custom formatter, optional
   formatter: function(meta) {
     const query = JSON.stringify(meta.query);
     const options = JSON.stringify(meta.options || {});
